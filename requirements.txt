@@ -14,7 +14,7 @@ cymem==2.0.10
 debugpy==1.6.7
 decorator==5.1.1
 dnspython==2.6.1
-en-core-web-lg
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.2.0/en_core_web_lg-3.2.0-py3-none-any.whl#sha256=ae37a39df924099ea9e9d9d4d2912bbed9c534089c9f5f3ac0a3564ca7815521
 executing==2.1.0
 faiss-cpu==1.7.2
 fastjsonschema==2.16.2
