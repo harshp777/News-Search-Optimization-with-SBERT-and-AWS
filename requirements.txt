@@ -14,7 +14,7 @@ cymem==2.0.10
 debugpy==1.6.7
 decorator==5.1.1
 dnspython==2.6.1
-en-core-web-lg==3.2.0
+en-core-web-lg
 executing==2.1.0
 faiss-cpu==1.7.2
 fastjsonschema==2.16.2
