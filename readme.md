@@ -148,5 +148,5 @@ mlops-search-relevance/
 
 ## Contact
 Feel free to reach out for any questions or collaboration opportunities!
-- **Email**: yourname@example.com
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
+- **Email**: harshmpandya.00@gmail.com
+- **LinkedIn**: [Harsh Pandya - Linkedin](https://www.linkedin.com/in/harsh-pandya-ai/)
